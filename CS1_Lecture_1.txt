@@ -1,0 +1,71 @@
+CS1_Lecture_1
+
+Python: is a computer language, (NO SHIT)
+
+Monty Python's Flying Circus Named after.
+1991 invented
+Most recent version is Pyton 3.2.
+
+Will be using 2.7 <- Most used 
+
+Writing Programs:
+
+Wirte a porgram in a text editor
+Save the source code with the exteniso of .py
+Interpret the file
+
+Write the code in a seperate file or use a 
+
+WingIDE ... FUUUU
+
+Python shell isan interactive interpreter of Python code. Not usaul. This is a stupid thing for poeple that need this type of stuff for you to help them with.  Good for experimenting with code.
+
+Arithmetic expressions with the mathimatical operators.
+Floating points are approximation to real numbers.
+
+** is exponent operator
+Parenthese force a different order of evaluation
+
+Variables give names to quantities.
+Variables must not hold operators that python uses.
+Variables cannot have spaces in their name.
+
+Names of varibales are identifiers, infinite length
+Identifiers cannot start with a digit and is case sensitive.
+Can use results of previous assignments in other ones
+
+Evaluation rule for assignments statements
+	   Evaluate the right hand side
+	   Assign the resulting value to the variable on the left hand side
+
+Booleans are True and False
+
+Types division
+      integers
+      floating
+      boolean
+      strings
+      others
+
+Functions take input and output data
+Functions must be defined. Some are built-in.
+Can have expressions as arguments
+Evaluation rule for functions
+	   Evaluate the arguemnts
+	   Call the function with the results of the first step
+
+Fuctions can have functions calls are arguments. Infinite complexity of function calls.  
+
+Syntax
+	def double(x):
+	    return x * 2
+
+def is a reserved word that you can't call anything.  Body of the function follows the functions definition name.
+return is another reserved word
+
+Functions can have local variables. That disappear after the function exits.
+
+Comments begin witha a #
+
+
+

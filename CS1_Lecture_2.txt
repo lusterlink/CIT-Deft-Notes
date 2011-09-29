@@ -1,0 +1,32 @@
+CS1_Lecture_2
+
+String Theory
+
+Single or double quotes for strings
+
+Escape sequences using \.
+
+Strings are immutable!!!!
+Time to destory memory with them.
+
+Concatenating string works in python.
+
+Python overloads operators e.g. +
+
+One can multiply strings by integers.
+
+Multi-line strings don't interpret anything inside of them.
+
+If you type \ followed by returned you will get a secondary prompt.
+
+Using print will strip the surrounding quotes from around the string.
+
+, afte ra print statement will supress the new line
+
+% is used for string formatting.
+%s, %f, %d similar to c++
+%g surpesses trailing zeros
+
+tuple is ( )
+
+

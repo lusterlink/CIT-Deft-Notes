@@ -1,0 +1,8 @@
+Sig Figs
+
+160 is 3 sig figs
+1.6 * 10^2 is 2 sig figs
+
+If you took the time to write the zero then it is a sig fig.
+Carry tons of decimal places into the final answer, then round.
+

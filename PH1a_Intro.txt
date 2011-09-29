@@ -1,0 +1,51 @@
+PH1a_Intro
+
+Newtonian Mechs
+
+Pure physics
+
+There exist units.
+There exist the ability to convert units.
+There in lies the ability to multiply by one.
+
+fundamental SI units and Derived SI units
+
+Fundamental
+	lenght
+	time
+	mass
+
+Derived
+	velocity
+	accel
+	area
+
+Special Names For Units
+	force
+	energy
+
+Units can be used to find out if your answer is correct or not.
+Units are needed for everything.
+
+Usage of SI units.
+
+
+TIME
+
+What is time?
+
+Earth around the sun is 1 year
+Moon around earth is aobut 1 month
+Earth spins once is 1 day
+
+Use of pendulum or digital clocks.
+
+60 Hz. digital clocks utilize AC to calculate time.
+Need a global standard.
+Divide a day perhaps?
+Howeve,r th Earth day changes in lenght because of mass distrubution and natural disasters(Earthquakes)
+
+Currently a second is something that is very stalbe and reproducible
+
+General relativity depends on gravity.
+A clock at a higher hiehgt will run faster due to general relativity.
